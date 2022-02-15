@@ -1,0 +1,20 @@
+{
+    "name": "dmytromarynin/f-quotes-api",
+    "description": "Simple library for use Famouse Quotes API",
+    "type": "library",
+    "license": "GNU 3",
+    "autoload": {
+        "psr-4": {
+            "FQuotes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dmytro-macos",
+            "email": "dimon200295@gmail.com"
+        }
+    ],
+    "require": {
+        "curl/curl": "^2.3"
+    }
+}
