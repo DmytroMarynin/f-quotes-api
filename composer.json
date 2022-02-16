@@ -2,7 +2,7 @@
     "name": "dmytromarynin/f-quotes-api",
     "description": "Simple library for use Famouse Quotes API",
     "type": "library",
-    "license": "GNU 3",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "FQuotes\\": "src/"
